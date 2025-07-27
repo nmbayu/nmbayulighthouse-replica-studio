@@ -19,8 +19,8 @@ const Navigation = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <div className="flex-shrink-0">
-            <h1 className="text-2xl font-bold text-primary">The Lighthouse</h1>
-            <p className="text-xs text-muted-foreground">Bali Wellness Retreat</p>
+            <h1 className="text-2xl font-bold text-primary">The Light of N M Bayu Wellness</h1>
+            <p className="text-xs text-muted-foreground">Holistic Wellness Center</p>
           </div>
 
           {/* Desktop Navigation */}
@@ -83,7 +83,7 @@ const Navigation = () => {
               </div>
               <div className="flex items-center space-x-2 px-3 py-2 text-sm text-muted-foreground">
                 <Mail className="h-4 w-4" />
-                <span>info@thelighthousebali.org</span>
+                <span>info@thelightofnmbayuwellness.com</span>
               </div>
               <div className="px-3 py-2">
                 <Button variant="healing" className="w-full">

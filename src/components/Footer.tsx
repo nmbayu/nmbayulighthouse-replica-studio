@@ -23,7 +23,7 @@ const Footer = () => {
     { icon: Phone, label: "English", value: "+62 858 5731 3512" },
     { icon: Phone, label: "Australia", value: "+61 474 049 905" },
     { icon: Phone, label: "Indonesia", value: "+62 878 6232 8989" },
-    { icon: Mail, label: "Email", value: "info@thelighthousebali.org" },
+    { icon: Mail, label: "Email", value: "info@thelightofnmbayuwellness.com" },
     { icon: MapPin, label: "Location", value: "Bali, Indonesia" }
   ];
 
@@ -37,8 +37,8 @@ const Footer = () => {
             <div className="flex items-center space-x-3 mb-6">
               <LighthouseIcon className="h-8 w-8 text-accent" />
               <div>
-                <h3 className="text-2xl font-bold">The Lighthouse</h3>
-                <p className="text-sm text-primary-foreground/80">Bali Wellness Retreat</p>
+                <h3 className="text-2xl font-bold">The Light of N M Bayu Wellness</h3>
+                <p className="text-sm text-primary-foreground/80">Holistic Wellness Center</p>
               </div>
             </div>
             <p className="text-primary-foreground/90 leading-relaxed mb-6">
@@ -138,7 +138,7 @@ const Footer = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center text-center md:text-left">
             <div className="text-sm text-primary-foreground/80 mb-4 md:mb-0">
-              <p>&copy; 2024 The Lighthouse Bali. All rights reserved.</p>
+              <p>&copy; 2024 The Light of N M Bayu Wellness. All rights reserved.</p>
               <p className="mt-1">Licensed and accredited wellness retreat center in Indonesia.</p>
             </div>
             <div className="flex flex-wrap justify-center md:justify-end gap-6 text-sm">

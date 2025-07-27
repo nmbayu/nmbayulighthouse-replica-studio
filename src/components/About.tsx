@@ -44,7 +44,7 @@ const About = () => {
             Comprehensive Holistic Rehab in Bali
           </h3>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            The Lighthouse Bali believes an individual approach provides the greatest chance for 
+            The Light of N M Bayu Wellness believes an individual approach provides the greatest chance for 
             long-term success. Our fully customizable program is built around you and your specific needs.
           </p>
         </div>
@@ -76,7 +76,7 @@ const About = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h3 className="text-3xl font-bold text-foreground mb-6">
-                Why Choose The Lighthouse Bali?
+                Why Choose The Light of N M Bayu Wellness?
               </h3>
               <div className="space-y-4 text-muted-foreground">
                 <p className="leading-relaxed">

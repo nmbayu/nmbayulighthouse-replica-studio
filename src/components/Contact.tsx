@@ -21,9 +21,9 @@ const Contact = () => {
       title: "Email Support",
       subtitle: "Professional Response",
       details: [
-        { label: "General Inquiries", value: "info@thelighthousebali.org" },
-        { label: "Admissions", value: "admissions@thelighthousebali.org" },
-        { label: "Emergency", value: "emergency@thelighthousebali.org" }
+        { label: "General Inquiries", value: "info@thelightofnmbayuwellness.com" },
+        { label: "Admissions", value: "admissions@thelightofnmbayuwellness.com" },
+        { label: "Emergency", value: "emergency@thelightofnmbayuwellness.com" }
       ]
     },
     {
@@ -238,7 +238,7 @@ const Contact = () => {
               </Button>
               <Button variant="healing" size="xl">
                 <Mail className="mr-2 h-5 w-5" />
-                Email: info@thelighthousebali.org
+                Email: info@thelightofnmbayuwellness.com
               </Button>
             </div>
           </div>

@@ -101,7 +101,7 @@ const Programs = () => {
                 Personalized Treatment Approach
               </h3>
               <p className="text-muted-foreground leading-relaxed mb-6">
-                Every client at The Lighthouse Bali receives a fully customized treatment plan developed 
+                Every client at The Light of N M Bayu Wellness receives a fully customized treatment plan developed 
                 by our multidisciplinary team. We believe that no two recovery journeys are the same, 
                 which is why we take the time to understand your unique circumstances, challenges, and goals.
               </p>

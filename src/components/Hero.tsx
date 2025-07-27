@@ -104,7 +104,7 @@ const Hero = () => {
 
               <div className="mt-6 pt-6 border-t border-border">
                 <Button variant="ocean" className="w-full" size="lg">
-                  Send Email: info@thelighthousebali.org
+                  Send Email: info@thelightofnmbayuwellness.com
                 </Button>
               </div>
             </div>
